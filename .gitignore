@@ -1,0 +1,11 @@
+__pycache__/
+res*/
+data/
+*.sh
+output*/
+api/
+audiotools/
+ckpts/
+src/
+csvfiles/
+Ezaudio/
